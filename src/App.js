@@ -1,4 +1,13 @@
+// Put routes in here so theyre required in index.js
+
 import React, { Component } from 'react';
+import {router} from 'react-router';
+import {Route}  from 'router.Route';
+import {Router} from 'router.Router';
+import {hashHistory} from 'router.hashHistory';
+
+
+
 import logo from './logo.svg';
 import './App.css';
 
